@@ -178,13 +178,13 @@ body {
   margin: 3px 0 0 0;
   display: inline-block;
   position: absolute;
-  border: transparent;
+  border: 3px solid transparent;
 }
 
 .button:hover {
   background: #fff;
   color: #0056ec;
-  border: 3px solid #0056ec;
+  border-color: #0056ec
 }
 
 @media (max-width: 767px) {
